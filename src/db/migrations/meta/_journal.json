@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1732718500643,
+      "tag": "0000_special_northstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1733177725722,
+      "tag": "0001_wealthy_elektra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1733390704091,
+      "tag": "0002_fat_wrecking_crew",
+      "breakpoints": true
+    }
+  ]
+}
